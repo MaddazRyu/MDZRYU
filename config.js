@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6281915483630'] 
+global.mods = ['6281915483630'] 
+global.prems = ['6281915483630'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
+global.nameowner = '𝕄𝕒𝕕𝕕𝕒𝕫-ℝ𝕪𝕦'
 global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.instagram = 'https://www.instagram.com/tzy_tzy14/'
+global.github = 'https://github.com/MaddazRyu'
+global.dana = '0813842502960'
+global.pulsa = '083842502960'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '𝕄𝕒𝕕𝕕𝕒𝕫-𝕄𝔻'
+global.gc = 'https://chat.whatsapp.com/I8hkiIJA3uu3xTcwYmO5UQ'
+global.web = 'https://www.instagram.com/tzy_tzy14/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Zuka Beta'
+global.wm = '𝕄𝕒𝕕𝕕𝕒𝕫-𝕄𝔻'
 global.watermark = wm
-global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.wm2 = '                     「 ˜”*°•.˜”*°• Maddaz-Ryu •°*”˜.•°*”˜⁩ 」'
+global.wm3 = '⫹⫺ 𝐌𝐚𝐝𝐝𝐚𝐳-𝐑𝐲𝐮'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© 𝐌𝐚𝐝𝐝𝐚𝐳-𝐑𝐲𝐮'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
